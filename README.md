@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Balagbag Traverse
 ### Balagbag Traverse Reservation System 1.0
 by Michael Antoni
