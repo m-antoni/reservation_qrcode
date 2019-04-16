@@ -1,0 +1,384 @@
+[33mcommit 2fe95de9bc03c1017147b3235cdf072c7a71e6d7[m[33m ([m[1;36mHEAD[m[33m)[m
+Author: Michael Antoni <codehive2018@gmail.com>
+Date:   Sun Feb 24 01:17:06 2019 +0800
+
+    final remove dummy chart
+
+[33mcommit a32dd7c77ead9a1e7f3aa1f24c5581d4d1bc730b[m
+Author: Michael Antoni <codehive2018@gmail.com>
+Date:   Fri Feb 22 01:03:44 2019 +0900
+
+    fixed route prefixes at web.php
+
+[33mcommit 16cafd7e007fae5406ab5a02a90cd695cd8f133e[m
+Author: Michael Antoni <codehive2018@gmail.com>
+Date:   Fri Feb 22 00:12:14 2019 +0900
+
+    fixed some table bugs version 2
+
+[33mcommit 1be163818ceafccac88f197951deffd4ec717232[m
+Author: Michael Antoni <codehive2018@gmail.com>
+Date:   Thu Feb 21 23:24:37 2019 +0900
+
+    fixed bugs at routes and change the contact.vue syles
+
+[33mcommit ee3f056a7a02dc50eb0c384e1a8edf46459874ca[m
+Author: Michael Antoni <codehive2018@gmail.com>
+Date:   Mon Feb 18 11:01:45 2019 +0900
+
+    Initial commit to be push to github
+
+[33mcommit e6cbff7cd4bf7e82281383dc45864f7875cabab8[m
+Author: Michael Antoni <codehive2018@gmail.com>
+Date:   Thu Feb 14 11:32:57 2019 +0900
+
+    THIS IS THE FINAL WORKING PROJECT READY TO PRESENT
+
+[33mcommit 0c90da8a3260ce5c45cbcb62d194edced6531042[m
+Author: Michael Antoni <codehive2018@gmail.com>
+Date:   Thu Feb 14 09:25:23 2019 +0900
+
+    added cash module implementation
+
+[33mcommit 6c98cbbc36c3a622423c46894b05c68c8766bd02[m
+Author: Michael Antoni <codehive2018@gmail.com>
+Date:   Mon Feb 11 23:51:15 2019 +0900
+
+    Fix some error issues and redesign the inbox section
+
+[33mcommit 2926d6ec1630cc226c251182c6c69df9033ee72f[m
+Author: Michael Antoni <codehive2018@gmail.com>
+Date:   Sun Feb 10 17:26:31 2019 +0900
+
+    Logs Module Final and Dashboard re-design, inbox.blade remove from files
+
+[33mcommit e51ff0764fe2869583fe6ce90f6c9998df94ac88[m
+Author: Michael Antoni <codehive2018@gmail.com>
+Date:   Sat Feb 9 20:24:17 2019 +0900
+
+    Login module implementation
+
+[33mcommit 56c34c01b07f3b46dffffdc94994baeca85d17e6[m
+Author: Michael Antoni <codehive2018@gmail.com>
+Date:   Sat Feb 9 15:57:58 2019 +0900
+
+    before making new module for login
+
+[33mcommit 73d9a5726f85e2f6895ba94573dc71dc3c73966b[m
+Author: Michael Antoni <codehive2018@gmail.com>
+Date:   Fri Feb 8 01:04:42 2019 +0900
+
+    Added amount to registration migration file
+
+[33mcommit 4425e7602952051c1b6017751b4c7f7a638425df[m
+Author: Michael Antoni <codehive2018@gmail.com>
+Date:   Thu Feb 7 22:41:23 2019 +0900
+
+    Fixed QRCodeScanner bugs 404 final
+
+[33mcommit 1854c997b2853d8446a26328e09183c97975e322[m
+Author: Michael Antoni <codehive2018@gmail.com>
+Date:   Thu Feb 7 20:08:53 2019 +0900
+
+    fixed some issues regarding files also added new Qrcode Scanner for Login
+
+[33mcommit 7c94dc9ed3c55960b03a8a8c8b2a91c19ef31111[m
+Author: Michael Antoni <codehive2018@gmail.com>
+Date:   Tue Feb 5 14:05:13 2019 +0900
+
+    Checked out section for qrcode testing and download implementation final
+
+[33mcommit 68b91e2f727c7908b7c53215af9559d0b6e6b9f4[m
+Author: Michael Antoni <codehive2018@gmail.com>
+Date:   Sun Feb 3 13:03:54 2019 +0900
+
+    added download qrcode functionality
+
+[33mcommit 6367d7d4b6fbf61606759fa2160c64748f293c42[m
+Author: Michael Antoni <codehive2018@gmail.com>
+Date:   Thu Jan 31 15:27:07 2019 +0900
+
+    added qrcode at admin section temporary
+
+[33mcommit d3275abe105f3249c2cf32493042795e2084aa55[m
+Author: Michael Antoni <codehive2018@gmail.com>
+Date:   Thu Jan 31 13:40:17 2019 +0900
+
+    registrationscontroller modified and qrcode implemented temporary
+
+[33mcommit af926953cba78a9bda8a737fcff4abb80cfdc189[m
+Author: Michael Antoni <codehive2018@gmail.com>
+Date:   Tue Jan 29 01:24:00 2019 +0900
+
+    Added Drag and Drop frunctionality at PaymentForm.vue
+
+[33mcommit 44c86a2f168bb645c8e933d9bc1b6813a4c59cfc[m
+Author: Michael Antoni <codehive2018@gmail.com>
+Date:   Mon Jan 28 20:46:37 2019 +0900
+
+    stripe api payment is working on this commit
+
+[33mcommit f7c8af6d26303ee4dde1c7ec340a311503705a17[m
+Author: Michael Antoni <codehive2018@gmail.com>
+Date:   Sun Jan 27 11:22:26 2019 +0900
+
+    New UI for homepage deleted some vue files that are not needed contact.vue will only remain
+
+[33mcommit 96d97e11d2b3588dc099c4c9854335d75c98af77[m
+Author: Michael Antoni <codehive2018@gmail.com>
+Date:   Sat Jan 26 17:53:14 2019 +0900
+
+    registration vue layout
+
+[33mcommit ded08e7d24e7323aebdbd2a2f7ae71ab9421b0f4[m
+Author: Michael Antoni <codehive2018@gmail.com>
+Date:   Sun Jan 20 12:43:14 2019 +0900
+
+    installed materliaze.css but no implemented yet
+
+[33mcommit b65e5426ef3625ad9b332ebe624792ee49ec16e4[m
+Author: Michael Antoni <codehive2018@gmail.com>
+Date:   Wed Jan 9 00:45:47 2019 +0900
+
+    Vue-Chart JS implementation but using dummy data to temporary viewing
+
+[33mcommit ee6aaf28ecd3d8c1a2693ec9c25e9ba8d73f6e24[m
+Author: Michael Antoni <codehive2018@gmail.com>
+Date:   Tue Jan 8 18:27:16 2019 +0900
+
+    Admin login QRCode functionality
+
+[33mcommit cf38df7f44b2eb2ef178dffbef8235885bdbaede[m
+Author: Michael Antoni <codehive2018@gmail.com>
+Date:   Sun Jan 6 21:29:59 2019 +0900
+
+    First to implement QRcode functionality
+
+[33mcommit 11a8b436910012f500a6b8accaf1317e72918cef[m
+Author: Michael Antoni <codehive2018@gmail.com>
+Date:   Sat Jan 5 22:17:42 2019 +0900
+
+    vue js components
+
+[33mcommit afd335591712af45ae30acda5105d3158661c912[m
+Author: Michael Antoni <codehive2018@gmail.com>
+Date:   Sat Dec 15 11:42:42 2018 +0900
+
+    fixed tha bug from message.vue and created a services.vue
+
+[33mcommit 324e4436bd9a740077e76751ba24cef0c92b9192[m
+Author: Michael Antoni <codehive2018@gmail.com>
+Date:   Thu Dec 13 17:57:44 2018 +0900
+
+    created message section at user , using vue, axios dynamically
+
+[33mcommit 164628ed1046b997da277224486c0a3af979a218[m
+Author: Michael Antoni <codehive2018@gmail.com>
+Date:   Sat Dec 8 14:02:07 2018 +0900
+
+    Create a Vue component for homepage, and make the contact section dynamic using axios
+
+[33mcommit e43758356fa70ddd0ac84994e191c5d95e3f5546[m
+Author: Michael Antoni <codehive2018@gmail.com>
+Date:   Sat Dec 8 00:13:55 2018 +0900
+
+    Fix the functionality of error from user to api
+
+[33mcommit 98ce0e8bdc9065788f9706efbe35c392a2f0bfdc[m
+Author: Michael Antoni <codehive2018@gmail.com>
+Date:   Thu Dec 6 03:57:58 2018 +0900
+
+    reservation reference number validation functionality
+
+[33mcommit ec85e1fb983dacd16059147f3e1b6d93c6cb3011[m[33m ([m[1;32mcheckout[m[33m, [m[1;32mEmailImplementation[m[33m)[m
+Merge: 45bb46c a59e0e8
+Author: Michael Antoni <codehive2018@gmail.com>
+Date:   Sat Dec 1 06:12:38 2018 +0900
+
+    Email Implementation and node_modules installed, to be push on github
+
+[33mcommit 45bb46c21393a56d21426fa278379a0399d87b77[m
+Author: Michael Antoni <codehive2018@gmail.com>
+Date:   Sat Dec 1 05:58:52 2018 +0900
+
+    Email Sender Implementation and npm install
+
+[33mcommit a59e0e8f0afa82538d38440bbeeb8a0e1794a553[m
+Author: Michael Antoni <39185941+m-antoni@users.noreply.github.com>
+Date:   Tue Nov 20 11:39:56 2018 +0800
+
+    Create README.md
+
+[33mcommit 38be840da81ead934f6fc4dbe2b8161367a1c9e5[m
+Author: Michael Antoni <codehive2018@gmail.com>
+Date:   Wed Nov 14 02:52:13 2018 +0900
+
+    Redesign the show of inbox and inquiry,make some changes in routes for efficiency
+
+[33mcommit 47a43b2e736fbb17654f37a873bb1ba355da7eda[m
+Author: Michael Antoni <codehive2018@gmail.com>
+Date:   Wed Nov 14 01:54:08 2018 +0900
+
+    fix the logout for admin and user section, then changes the skin of admin to dark
+
+[33mcommit 9f01da793a23fcc30de4753bd32dc94b5ab91cfc[m
+Author: Michael Antoni <codehive2018@gmail.com>
+Date:   Wed Nov 14 00:08:42 2018 +0900
+
+    redesign the form and some tables
+
+[33mcommit 0b7ddd8fdca58e2631b0ef1ca85c240259a5a3c6[m
+Author: Michael Antoni <codehive2018@gmail.com>
+Date:   Tue Nov 13 22:51:27 2018 +0900
+
+    created a delete functionality at reservation and method to not proceed if the input date is less than or equal to the current date
+
+[33mcommit a7dea126112544beaea17c83dc9de52751c08a7b[m
+Author: Michael Antoni <codehive2018@gmail.com>
+Date:   Mon Nov 12 18:08:11 2018 +0900
+
+    create a functionality to make a reservation only once reservation.blade
+
+[33mcommit e5c57e92472274ff3b89eff6b2d593c5cb027abf[m
+Author: Michael Antoni <codehive2018@gmail.com>
+Date:   Mon Nov 12 13:41:37 2018 +0900
+
+    redesign the native form to laravel colletive at message.blade
+
+[33mcommit d6fc2213d5502c75daf3808888cfe99daf7a0fcb[m
+Author: Michael Antoni <codehive2018@gmail.com>
+Date:   Sun Nov 11 15:12:16 2018 +0900
+
+    create an inquiry reply form
+
+[33mcommit b0402d6b07fd40da8c5b11dea4fe5fc744675019[m
+Author: Michael Antoni <codehive2018@gmail.com>
+Date:   Sun Nov 11 14:19:43 2018 +0900
+
+    change email to username for admin-login
+
+[33mcommit 377748daaaa997c60f40abd5ef21e455b1b7634a[m
+Author: Michael Antoni <codehive2018@gmail.com>
+Date:   Sun Nov 11 14:11:21 2018 +0900
+
+    make a migration file, to drop a column at users table which is admin column
+
+[33mcommit 909c28020389138881e48bfd312ddf913e265cef[m
+Author: Michael Antoni <codehive2018@gmail.com>
+Date:   Sun Nov 11 14:01:52 2018 +0900
+
+    modified logo and composer update
+
+[33mcommit b956f3376c23d5fa9dea8f87e097c3978e2ebfe9[m
+Author: Michael Antoni <codehive2018@gmail.com>
+Date:   Wed Nov 7 13:15:55 2018 +0900
+
+    redesign the email.blade.php and make some changes in button at login and register pages
+
+[33mcommit 8e03c53f772b3584bc907700f30b98803120184c[m
+Author: Michael Antoni <codehive2018@gmail.com>
+Date:   Fri Nov 2 16:19:31 2018 +0900
+
+    changing the font sizes and animations of forms
+
+[33mcommit d2999cdb817861ada5042f618103dae35be425a3[m
+Author: Michael Antoni <codehive2018@gmail.com>
+Date:   Fri Nov 2 16:09:54 2018 +0900
+
+    redesign the login forms and register
+
+[33mcommit ed6d6e16f6f19279b655e70e0cd2fa9434961ca4[m
+Author: Michael Antoni <codehive2018@gmail.com>
+Date:   Fri Nov 2 14:51:18 2018 +0900
+
+    fix the logout functionality now you can logout the admin user without logging out the users section..multi authentication is good
+
+[33mcommit 97608fc205bf326c470e93a15f2ebc4554a39987[m
+Author: Michael Antoni <codehive2018@gmail.com>
+Date:   Fri Nov 2 13:45:47 2018 +0900
+
+    resolve a redirects from current guard cannot view login form if already logged in, but you can view it in user to view admin/login view modified only at Middleware/RedirectIfAuthenticated.php
+
+[33mcommit 93af1f7c529902b521b2b8ab354803a8cb1e664a[m
+Author: Michael Antoni <codehive2018@gmail.com>
+Date:   Thu Nov 1 18:08:26 2018 +0900
+
+    middleware for users and admins resolve and can have multiple session at the same time
+
+[33mcommit f1dfe3f00def640cc729e557cf73f65978909424[m
+Author: Michael Antoni <codehive2018@gmail.com>
+Date:   Thu Nov 1 16:27:30 2018 +0900
+
+    make a guard name it to admin and also create an admin model and migrations
+
+[33mcommit 6380b5b0ff539e63f6316e81a1ecbb30da481a38[m
+Author: Michael Antoni <codehive2018@gmail.com>
+Date:   Thu Nov 1 12:54:13 2018 +0900
+
+    added middleware construct and revise some code at userpages blade
+
+[33mcommit 18b153fa3de7cd95a688c089ab3ba6ce3d0be1e2[m
+Author: Michael Antoni <codehive2018@gmail.com>
+Date:   Fri Oct 26 12:48:54 2018 +0900
+
+    Fix a layout template at Admin Pages.
+
+[33mcommit bbffe877f0fdf2ab59938778c623444705f3dec2[m
+Author: Michael Antoni <codehive2018@gmail.com>
+Date:   Fri Oct 26 12:31:59 2018 +0900
+
+    Fixing a templating layout of usersdashboard pages.
+
+[33mcommit 984cbce3efc76947ddee84778a264acceeda5072[m
+Author: Michael Antoni <codehive2018@gmail.com>
+Date:   Sun Oct 21 23:56:09 2018 +0900
+
+    modified css and js folders
+
+[33mcommit 268d11065f699edd04f726845d9a158650fe6c9d[m
+Author: Michael Antoni <codehive2018@gmail.com>
+Date:   Sun Oct 21 18:23:54 2018 +0900
+
+    replace the form of reservation to a form of laravel collective
+
+[33mcommit 57d53da17fb08315fb68dce26df6309b3d444d1c[m
+Author: Michael Antoni <codehive2018@gmail.com>
+Date:   Sun Oct 21 17:06:55 2018 +0900
+
+    redesign the reservation page of user and layouts in the blade templating
+
+[33mcommit db27e679e8ad3426a9ce21f76e737eb9099383c0[m
+Author: Michael Antoni <codehive2018@gmail.com>
+Date:   Sat Oct 20 11:07:05 2018 +0900
+
+    installed cartalyst stripe and composer update
+
+[33mcommit 39249762562d8a937dae96beac97b8c915e6992f[m
+Author: Michael Antoni <codehive2018@gmail.com>
+Date:   Fri Oct 19 12:56:59 2018 +0900
+
+    redesign the layout of resservation
+
+[33mcommit c593e9ec1eadc4769b2d1ae84ceb4214f4989c3b[m
+Author: Michael Antoni <codehive2018@gmail.com>
+Date:   Tue Oct 16 16:41:06 2018 +0900
+
+    create export for reservation in user section
+
+[33mcommit a796248144da0c8c3638dbe635cebf092b07ccf3[m
+Author: Michael Antoni <codehive2018@gmail.com>
+Date:   Tue Oct 16 12:59:17 2018 +0900
+
+    new commit today at office
+
+[33mcommit 82b246abf7875947880ff13bbcb72b3bdf1619c8[m
+Author: Michael Antoni <codehive2018@gmail.com>
+Date:   Sun Oct 14 23:54:13 2018 +0900
+
+    sign-out button redesign - adminlayout and userlayout
+
+[33mcommit 1e1bcc06d1c5c3cfc58be00dc44d19e172e042a7[m
+Author: Michael Antoni <codehive2018@gmail.com>
+Date:   Sun Oct 14 23:30:29 2018 +0900
+
+    clients.blade and route name is created
